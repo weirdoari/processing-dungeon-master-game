@@ -2,17 +2,10 @@
 
 A level-based 2D action-adventure game built from scratch using **Processing (Java)**, featuring a dynamic progression and "Perk" crafting system.
 
+<img width="1920" height="1080" alt="Untitled-1" src="https://github.com/user-attachments/assets/0b2146fc-359c-4c3e-8e84-771072324533" />
+
 ## 📖 Story & Overview
 In a world where the mythical "Perk Monsters" who once protected the realm have been wiped out by an evil force, only one remains. You play as a wandering magician tasked with helping this last Perkmaster. By defeating enemies and exploring levels, you collect **Soul Flowers** used to craft powerful Perks that grant you unique enhancements and abilities.
-
----
-
-## 🎬 Gameplay Walkthrough
-
-Click the image below to watch the full gameplay walkthrough and mechanics showcase on YouTube:
-
-[![Watch Perkmaster's Dungeon Walkthrough](https://img.youtube.com/vi/b1mA6jEJSvI/0.jpg)](https://www.youtube.com/watch?v=b1mA6jEJSvI)
-*Click the preview to open the video in a new tab.*
 
 ---
 
@@ -41,3 +34,12 @@ Click the image below to watch the full gameplay walkthrough and mechanics showc
 ## 🚀 Future Roadmap (Todo)
 - [ ] Implement a post-game **Endless Mode** level.
 - [ ] Replace the remaining placeholder enemy sprites with 100% original custom animations.
+
+---
+
+## 🎬 Gameplay Walkthrough
+
+Click the image below to watch the full gameplay walkthrough and mechanics showcase on YouTube:
+
+[![Watch Perkmaster's Dungeon Walkthrough](https://img.youtube.com/vi/b1mA6jEJSvI/0.jpg)](https://www.youtube.com/watch?v=b1mA6jEJSvI)
+*Click the preview to open the video in a new tab.*
